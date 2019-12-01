@@ -1,0 +1,34 @@
+body {
+	background-image: url("Background world image .jpeg");
+}
+h1{
+	color: white;
+}
+.personal-profile{
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+.CV{
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 0 auto;
+}
+img{ 
+	text-decoration: none;
+	width: 10%
+}
+.fa-envelope-square, .fa-linkedin, .fa-phone-square-alt {
+	text-decoration: none;
+	font-size: 40px
+}
+header{ 
+	text-decoration: none;
+	text-align: center; 
+}
+i{
+	text-decoration: none;
+	color: white;
+}
